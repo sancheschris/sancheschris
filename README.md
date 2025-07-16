@@ -32,8 +32,6 @@ I'm passionate about **clean architecture**, **cloud-native applications**, and 
 
 ## 🔭 Currently Exploring
 - **Golang:** actively learning and building projects to deepen my expertise
-- **Distributed systems & event-driven architectures**
-- **Advanced Kubernetes patterns**
 - **AI and backend integrations**
 
 ## 📫 Let's Connect
